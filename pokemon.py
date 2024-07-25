@@ -1156,7 +1156,7 @@ def main():
     combat = pd.DataFrame()
 
     print('Inicio proceso')
-    for i in range(20):
+    for i in range(1):
         log = []
         
         #Elige al azar cada Pokemon, su naturaleza y los ataques que utilizará
